@@ -61,15 +61,15 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`S.No`, `Name`, `Email`, `Credit`) VALUES
-(1, 'Naveen Singh', 'naveen.ece.1728@iiitbh.ac.in', 10005),
-(2, 'Shubham Kumar', 'skp92360@gmail.com', 295),
-(3, 'Niraj Kumar', 'niraj.ece.1730@iiitbh.ac.in', 850),
-(4, 'Animesh Ranjan', 'animesh.cse.1711@iiitbh.ac.in', 300),
-(5, 'Alok Kumar', 'alok.ece.1702@iiitbh.ac.in', 90),
-(6, 'Ria', 'ria@gmail.com', 1280),
-(7, 'Ankur Rathore', 'ankur@rediffmail.com', 751),
-(8, 'Mehwish Zaidi', 'mahi@gmail.com', 786),
-(9, 'Mukesh Dwivedi', 'muko@yahoo.in', 4905),
+(1, 'Naveen Singh', 'xyz@abc.com', 10005),
+(2, 'Shubham Kumar', 'xyz@abc.com', 295),
+(3, 'Niraj Kumar', 'xyz@abc.com', 850),
+(4, 'Animesh Ranjan', 'xyz@abc.com', 300),
+(5, 'Alok Kumar', 'xyz@abc.com', 90),
+(6, 'Ria', 'xyz@abc.com', 1280),
+(7, 'Ankur Rathore', 'xyz@abc.com', 751),
+(8, 'Mehwish Zaidi', 'xyz@abc.com', 786),
+(9, 'Mukesh Dwivedi', 'xyz@abc.com', 4905),
 (10, 'Tony Stark', 'iron@man.com', 205);
 
 --
